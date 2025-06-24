@@ -3,7 +3,7 @@
   <img src="screenshots/YT4kicon.png" alt="icone" width="300"/>
 </p>
 
-<h1 align="center">YT 4K Downloader 4K v2</h1>
+<h1 align="center">YT 4K Downloader v2</h1>
 
 ![version](https://badge.ttsalpha.com/api?label=version&status=2.0&color=4BB543)
 ![made_by](https://badge.ttsalpha.com/api?label=made_by&status=Clayton_Felipe&color=42ba96)
