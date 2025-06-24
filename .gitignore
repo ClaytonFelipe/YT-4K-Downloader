@@ -1,0 +1,22 @@
+# Data user
+/data   
+
+# Bytecode
+__pycache__/
+*.py[cod]
+**/__pycache__/
+
+# Virtualenv
+venv/
+.env/
+
+# IDEs
+.vscode/
+.idea/
+
+# Mac / Linux
+.DS_Store
+
+# Logs / temp
+*.log
+*.tmp

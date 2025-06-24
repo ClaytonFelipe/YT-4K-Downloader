@@ -1,0 +1,13 @@
+# YT 4K Downloader  - Dependências
+PySide6>=6.7.1
+yt-dlp>=2025.6.9
+pathlib
+
+# Dependências opcionais para funcionalidades extras
+requests>=2.31.0  # Para validação de URLs
+Pillow>=10.3.0    # Para manipulação de thumbnails
+
+# Dependências de desenvolvimento (opcional)
+# pytest>=7.4.0
+# black>=23.0.0
+# flake8>=6.0.0
