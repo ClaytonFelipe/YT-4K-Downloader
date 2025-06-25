@@ -60,7 +60,7 @@ class ConfigManager:
 
 # Configurações da aplicação
 APP_CONFIG = {
-    'window_title': 'YT 4K Downloader v2',
+    'window_title': 'YT 4K Downloader v2.0.1',
     'window_size': (500, 550),
     'window_position': (100, 100),
     'icon_path': 'src/assets/4kicon.ico',
